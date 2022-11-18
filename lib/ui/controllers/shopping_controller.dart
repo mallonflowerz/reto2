@@ -29,7 +29,7 @@ class ShoppingController extends GetxController {
   void calcularTotal() {
     sum.value = total;
     int newTotal = total;
-    print("jasdjiasdasjd ${newTotal}");
+    print(" ${newTotal}");
   }
 
   agregarProducto(id) {
