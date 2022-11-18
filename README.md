@@ -1,11 +1,10 @@
-Proyecto base para el segundo reto
+## Reto 2 - NCR 2290 Equipo 5
 
-El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO.
+El trabajo incluye todo lo pedido como agregar y disminuir los productos con sus respectivos precios, ademas de que tiene una nueva funcionalidad para cambiar el nombre y la localizacion del usuario dando doble click en en las frases "Double tap to enter user" y "Double tap to enter location" (los cambios se actualizan automaticamente).
 
-El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
+El siguiente es un video donde se muestra la funcionalidad de la app:
 
 ![shoppingApp](https://user-images.githubusercontent.com/4458129/173839525-218900ed-9bcd-4f6f-9158-0b02dd9d7707.gif)
 
-Solución:
-
-https://github.com/MisionTIC4b/f_shopping_app
+#Nota:
+Este proyecto fue realizado por Marlon Caleb Florez Duarte y Jhoiner Ballesteros Quiceno. los demas miembros del grupo no participaron ni aportaron nada a la realizacion de la app.
