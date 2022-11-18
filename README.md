@@ -4,7 +4,7 @@ El trabajo incluye todo lo pedido como agregar y disminuir los productos con sus
 
 El siguiente es un video donde se muestra la funcionalidad de la app:
 
-![shoppingApp](https://user-images.githubusercontent.com/4458129/173839525-218900ed-9bcd-4f6f-9158-0b02dd9d7707.gif)
+https://raw.githubusercontent.com/mallonflowerz/reto2/master/
 
 ## Nota:
 Este proyecto fue realizado por Marlon Caleb Florez Duarte y Jhoiner Ballesteros Quiceno. los demas miembros del grupo no participaron ni aportaron nada a la realizacion de la app.
